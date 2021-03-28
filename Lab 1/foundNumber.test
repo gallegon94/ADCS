@@ -1,0 +1,45 @@
+ogallego-mac:DISENIO ogallego$ python findNumber.py 
+Please enter a number:1
+1
+The number is bigger
+Please enter a number:5
+5
+The number is smaller
+Please enter a number:3
+3
+Got it!
+
+Attempts: 3
+ogallego-mac:DISENIO ogallego$ python findNumber.py 
+Please enter a number:15
+15
+The number is bigger
+Please enter a number:20
+20
+The number is smaller
+Please enter a number:17
+17
+The number is bigger
+Please enter a number:18
+18
+The number is bigger
+Please enter a number:19
+19
+Got it!
+
+Attempts: 5
+ogallego-mac:DISENIO ogallego$ python findNumber.py 
+Please enter a number:15
+15
+The number is smaller
+Please enter a number:20
+20
+The number is smaller
+Please enter a number:5
+5
+The number is bigger
+Please enter a number:7
+7
+Got it!
+
+Attempts: 4
